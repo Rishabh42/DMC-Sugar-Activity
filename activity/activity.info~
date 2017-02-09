@@ -1,0 +1,7 @@
+[Activity]
+name = DefendMyCastle
+activity_version = 1
+bundle_id = org.sugarlabs.DefendMyCastle
+exec = sugar-activity activity.DMCactivity
+icon = activity-icon
+license = GPLv2+
